@@ -1,11 +1,12 @@
 h1. MGP Scroll To Comment - Automatically scroll to newly added comments on your ExpressionEngine blog.
 
 *Author*: "Matthew Pennell":http://www.thewatchmakerproject.com/ - Principal, "29digital":http://www.29digital.com/
-*GitHub Repository*: http://github.com/matthewpennell/mgp.ee_scroll_to_comment.ee_addon/
+
+*GitHub Repository*: "http://github.com/matthewpennell/mgp.ee_scroll_to_comment.ee_addon/":http://github.com/matthewpennell/mgp.ee_scroll_to_comment.ee_addon/
 
 h2. Documentation
 
-An explanation and installation instructions can be found at http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment/
+An explanation and installation instructions can be found at "http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment/":http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment/
 
 h2. License
 
