@@ -10,7 +10,7 @@
  * @copyright	Copyright (c) 2008, Matthew Pennell
  * @license		http://creativecommons.org/licenses/by-sa/3.0/
  * @link		http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment
- * @since		Version 0.1
+ * @since		Version 1.0
  * @filesource
  * 
  * This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported.

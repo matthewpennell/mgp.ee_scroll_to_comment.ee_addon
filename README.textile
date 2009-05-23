@@ -8,6 +8,10 @@ h2. Documentation
 
 An explanation and installation instructions can be found at "http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment/":http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment/
 
+h2. Feature Requests
+
+All feature requests and associated discussion can be found on "the wiki for this project":http://wiki.github.com/matthewpennell/mgp.ee_scroll_to_comment.ee_addon/feature-requests.
+
 h2. License
 
 MGP Scroll To Comment is currently available for use in all personal or commercial projects under "Creative Commons Attribution-Share Alike 3.0 Unported":http://creativecommons.org/licenses/by-sa/3.0/ license.
